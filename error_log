@@ -1,0 +1,20 @@
+[10-Jul-2023 09:35:36 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'midasco_DEV3'@'localhost' (using password: YES) in E:\XamppWorkspace\DEV3\importcompanytargets.php on line 61
+[10-Jul-2023 09:35:36 Europe/London] PHP Notice:  Undefined variable: query in E:\XamppWorkspace\DEV3\importcompanytargets.php on line 61
+[10-Jul-2023 09:35:36 Europe/London] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in E:\XamppWorkspace\DEV3\importcompanytargets.php on line 61
+[10-Jul-2023 09:35:36 Europe/London] Hi Kieran, an error just occurred in E:\XamppWorkspace\DEV3\importcompanytargets.php. The query was '' and the error was ''<BR>
+[10-Jul-2023 09:35:38 Europe/London] PHP Warning:  error_log(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\XamppWorkspace\DEV3\importcompanytargets.php on line 118
+[10-Jul-2023 09:35:50 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'midasco_DEV3'@'localhost' (using password: YES) in E:\XamppWorkspace\DEV3\importcompanytargets.php on line 61
+[10-Jul-2023 09:35:50 Europe/London] PHP Notice:  Undefined variable: query in E:\XamppWorkspace\DEV3\importcompanytargets.php on line 61
+[10-Jul-2023 09:35:50 Europe/London] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in E:\XamppWorkspace\DEV3\importcompanytargets.php on line 61
+[10-Jul-2023 09:35:50 Europe/London] Hi Kieran, an error just occurred in E:\XamppWorkspace\DEV3\importcompanytargets.php. The query was '' and the error was ''<BR>
+[10-Jul-2023 09:35:52 Europe/London] PHP Warning:  error_log(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\XamppWorkspace\DEV3\importcompanytargets.php on line 118
+[10-Jul-2023 09:39:20 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'midasco_DEV3'@'localhost' (using password: YES) in E:\XamppWorkspace\DEV3\upload.php on line 61
+[10-Jul-2023 09:39:20 Europe/London] PHP Notice:  Undefined variable: query in E:\XamppWorkspace\DEV3\upload.php on line 61
+[10-Jul-2023 09:39:20 Europe/London] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in E:\XamppWorkspace\DEV3\upload.php on line 61
+[10-Jul-2023 09:39:20 Europe/London] Hi Kieran, an error just occurred in E:\XamppWorkspace\DEV3\upload.php. The query was '' and the error was ''<BR>
+[10-Jul-2023 09:39:22 Europe/London] PHP Warning:  error_log(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\XamppWorkspace\DEV3\upload.php on line 111
+[10-Jul-2023 09:39:35 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'midasco_DEV3'@'localhost' (using password: YES) in E:\XamppWorkspace\DEV3\upload.php on line 61
+[10-Jul-2023 09:39:35 Europe/London] PHP Notice:  Undefined variable: query in E:\XamppWorkspace\DEV3\upload.php on line 61
+[10-Jul-2023 09:39:35 Europe/London] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in E:\XamppWorkspace\DEV3\upload.php on line 61
+[10-Jul-2023 09:39:35 Europe/London] Hi Kieran, an error just occurred in E:\XamppWorkspace\DEV3\upload.php. The query was '' and the error was ''<BR>
+[10-Jul-2023 09:39:37 Europe/London] PHP Warning:  error_log(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\XamppWorkspace\DEV3\upload.php on line 111
